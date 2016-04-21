@@ -1,1 +1,1 @@
-# NavigationDrawerWithViewPager
+# NavigationDrawerWithViewPagerIndicator
